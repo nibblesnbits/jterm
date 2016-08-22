@@ -1,0 +1,15 @@
+{
+    "logging": {
+        "name": "jterm",
+        "file": {
+            "enabled": true,
+            "level": "trace",
+            "dir": "./logs",
+            "fileName": "daily.log"
+        },
+        "console": {
+            "enabled": true,
+            "level": "trace"
+        }
+    }
+}
