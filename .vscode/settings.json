@@ -3,7 +3,8 @@
 	"editor.insertSpaces": true,
     "files.exclude": {
         "node_modules": true,
-        
+        "src/public/bower": true,
+        "logs": true,
         "**/.git": true,
         "typings": true,
         ".gitignore": true
